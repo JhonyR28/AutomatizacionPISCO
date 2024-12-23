@@ -25,6 +25,7 @@ Este proyecto permite manejar y procesar datos climáticos del sistema PISCO. Ge
 * Carga las dependencias necesarias.
 3. Interfaz interactiva:
 * Selecciona localidades y variables desde los widgets.
+* También se puede añadir un archivo excel con los siguientes formatos.
   ![image](https://github.com/user-attachments/assets/b7885730-a125-427c-8d30-63ba1108d907)
 
 * Define el intervalo de tiempo y formato de salida.
