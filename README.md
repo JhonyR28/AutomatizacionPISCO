@@ -19,7 +19,7 @@ Este proyecto permite manejar y procesar datos climáticos del sistema PISCO. Ge
 ## Uso
 1. Requisitos iniciales:
 * Los archivos TMAX.nc, TMIN.nc, Evapotranspiracion.nc y Precipitacion.nc (archivos renombrados de PISCO de manera DIARIA) deben estar en el directorio de trabajo.
-* La descarga se tiene a través del siguiente link:
+ ### La descarga se tiene a través del siguiente link: https://drive.google.com/drive/folders/1YDtPpIBeltqbiFCZSDexvSmiPRA_4jxi?usp=sharing o también desde https://iridl.ldeo.columbia.edu/SOURCES/.SENAMHI/.HSR/.PISCO/?Set-Language=es seleccionando datos DIARIOS
 2. Configuración:
 * Ejecuta el código en un entorno Jupyter.
 * Carga las dependencias necesarias.
