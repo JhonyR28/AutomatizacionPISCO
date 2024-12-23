@@ -1,7 +1,7 @@
 # AutomatizacionPISCO
 ## Procesamiento Interactivo de Datos Climáticos PISCO - SENAMHI
 Este proyecto permite manejar y procesar datos climáticos del sistema PISCO. Genera archivos Excel con las variables seleccionadas (Tmax, Tmin, precipitación y evapotranspiración) en formatos adaptados para uso general o para el software hidrológico TETIS.
-
+## Se recomienda reiniciar el Kernel para cada petición
 ## Características
 * Carga y procesamiento de datos climáticos PISCO:
   * Tmax y Tmin.
