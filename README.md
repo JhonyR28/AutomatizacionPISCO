@@ -40,8 +40,7 @@ Este proyecto permite manejar y procesar datos climáticos del sistema PISCO. Ge
 * Librerías:
   * folium, geopy, pyproj, requests, geopandas, xlsxwriter, ipywidgets.
 Instala las dependencias con:
-
-- pip install folium geopy pyproj requests geopandas xlsxwriter ipywidgets
+### pip install folium geopy pyproj requests geopandas xlsxwriter ipywidgets
 
 ## Aplicaciones
 * Ideal para:
