@@ -39,14 +39,12 @@ Se recomienda **reiniciar el kernel** para cada nueva petición y trabajar en **
   - [SENAMHI - IRIDL](https://iridl.ldeo.columbia.edu/SOURCES/.SENAMHI/.HSR/.PISCO/?Set-Language=es) (seleccionar datos **DIARIOS**).
 
 ### 2. **Configuración**
-- Ejecuta el código en un entorno **Jupyter**.
+- Ejecuta el código en un entorno de **Google Colab**.
 - Carga las dependencias necesarias.
 
 ### 3. **Interfaz interactiva**
 - Selecciona localidades y variables utilizando los widgets.
-- También puedes añadir un archivo Excel con el siguiente formato:
-  ![Formato Excel](https://github.com/user-attachments/assets/b7885730-a125-427c-8d30-63ba1108d907)
-
+- También puedes añadir un archivo Excel, los formatos se encuentran al final.
 - Define el intervalo de tiempo y el formato de salida.
 
 ### 4. **Generación de resultados**
@@ -69,6 +67,16 @@ Se recomienda **reiniciar el kernel** para cada nueva petición y trabajar en **
 ## **Datos de COMIDs**
 Obtén los COMIDs para caudales desde:  
 [Mapa de COMIDs - HLLauca](https://hllauca.github.io/map_product/Identificar_COMID.html)
+
+---
+
+## **Formato Excel para Tmax, Tmin, Precipitacion y Evapotranspiracion**
+![Formato Excel](https://github.com/user-attachments/assets/b7885730-a125-427c-8d30-63ba1108d907)
+
+---
+
+## **Formato Excel para Caudales**
+![Formato Excel_2](https://github.com/user-attachments/assets/0c7fe21a-14e4-4e02-8fcc-7f1925b5d6de)
 
 ---
 
