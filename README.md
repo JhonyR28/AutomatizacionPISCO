@@ -41,6 +41,7 @@ El código interactivo procesa datos PISCO de temperatura, precipitación, y cau
 ## Interfaz para caudales
 ![image](https://github.com/user-attachments/assets/4d30ecb7-35ef-4678-9ce0-327c01c4f45d)
 
+## Los COMIDS para caudales se obtienen de la página https://hllauca.github.io/map_product/Identificar_COMID.html
 ## Requisitos
 * Python 3.7+
 * Librerías:
